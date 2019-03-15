@@ -1,3 +1,3 @@
 <?php 
-echo "Welcome to GIT"; 
+echo "Welcome to GIT. Learning git is a fun"; 
 ?>
